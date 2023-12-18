@@ -49,7 +49,7 @@ La integración de la realidad virtual en Google ha supuesto una experiencia dig
 
 La integración de la Realidad Virtual en Google no solo ha mejorado las funciones de búsqueda, sino que también ha posicionado a Google como un líder en la creación de experiencias digitales inmersivas, fusionando lo virtual con lo real para ofrecer una experiencia más completa y envolvente al usuario. La hibridación, en este contexto, se manifiesta como un impulsor para la evolución continua de Google, creando, por ejemplo, una herramienta de navegación inmersiva a partir de un objeto tan cotidiano como puede ser un mapa, o convirtiendo el análisis de cuadros  en una experiencia interactiva a partir de algo tan convencional como la visita a una galería de arte.
 “En los gráficos por ordenador en 3D, el renderizado de objetos tridimensionales puede aprovechar las técnicas de la pintura tradicional. En los mapamundis virtuales como Google Earth o Microsoft Virtual Earth, las posibilidades representativas y las interfaces para trabajar con mapas, imágenes satelitales, edificios en 3D y fotografías se combinan para crear nuevas representaciones híbridas y nuevas interfaces más elaboradas.”
-Lev Manovich, Software takes control
+Lev Manovich, El software toma el mando
 
 La hibridación tecnológica, conceptuada por Lev Manovich, se manifiesta explícitamente en la evolución de Google. La fusión creativa de lo virtual con lo real ha llevado a Google hacia el liderazgo en la creación de experiencias digitales inmersivas.
 
